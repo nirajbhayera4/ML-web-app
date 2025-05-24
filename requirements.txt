@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+streamlit
+streamlit-option-menu
+pickle-mixin
+pymongo[srv]
+scikit-learn==1.5.1
+pandas
+python-dotenv
